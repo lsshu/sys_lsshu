@@ -1,0 +1,4 @@
+.idea
+uwsgi.xml
+db.sqlite3
+migrations/
